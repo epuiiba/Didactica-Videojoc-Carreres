@@ -26,3 +26,7 @@ Didactica-Videojoc-Carreres/
     └── Plantilla_Projecte/             # Plantilla del projecte d'Unity per sobre la qual els alumnes poden treballar
         └── ...       
 ```
+
+## Autors
+
+Projecte fet per Enric Puigcerver Ibáñez, Pau Noguera Rodríguez i Joseph Morant Navarro
